@@ -1,5 +1,10 @@
+
 {
-  "updated_at": "2026-04-12 7:00:00",
-  "revoked_license_ids": [WZXS-b591c2214c ],
-  "revoked_machine_hashes": [b591c2214c3de7f2d6ac60f36e4f1996b206c6961cd02971e399ed17a3c1608b]
+  "updated_at": "2026-04-11 12:00:00",
+  "revoked_license_ids": [
+    "WZXS-b591c2214c"
+  ],
+  "revoked_machine_hashes": [
+    "b591c2214c3de7f2d6ac60f36e4f1996b206c6961cd02971e399ed17a3c1608b"
+  ]
 }
