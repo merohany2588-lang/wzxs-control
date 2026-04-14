@@ -1,0 +1,15 @@
+{
+  "login_username": "vip2026",
+  "login_password_sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+  "product_name": "文转小秘书",
+  "login_default_tier": "VIP1",
+  "vip1_display_days": 7,
+  "policy_urls": [
+    "https://raw.githubusercontent.com/merohany2588-lang/wzxs-control/main/policy.json",
+    "https://cdn.jsdelivr.net/gh/merohany2588-lang/wzxs-control/policy.json"
+  ],
+  "blacklist_urls": [
+    "https://raw.githubusercontent.com/merohany2588-lang/wzxs-control/main/blacklist.json",
+    "https://cdn.jsdelivr.net/gh/merohany2588-lang/wzxs-control/blacklist.json"
+  ]
+}
