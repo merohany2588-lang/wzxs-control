@@ -1,0 +1,36 @@
+{
+  "translate_target_for_en": "zh",
+  "translate_target_for_zh": "en",
+
+  "opus_en_zh_model_dir": "G:/AI_Models/translation/opus-mt-en-zh",
+  "opus_zh_en_model_dir": "G:/AI_Models/translation/opus-mt-zh-en",
+
+  "opus_en_zh_model_id": "Helsinki-NLP/opus-mt-en-zh",
+  "opus_zh_en_model_id": "Helsinki-NLP/opus-mt-zh-en",
+
+  "opus_allow_download": false,
+  "opus_max_length": 512,
+
+  "argos_package_dir": "",
+
+  "online_provider_order": "tencent,baidu,deepl,google",
+  "smart_online_fallback": true,
+  "online_enhance_regex": "",
+  "online_enhance_long_text_threshold": 180,
+
+  "tencent_id": "AKIDCWdaNUP7h6KL8kANM7i80mOpDXknhQ8k",
+  "tencent_key": "gDbsyuiPu2360gBVfdNuF7rUxFOXchhb",
+  "tencent_region": "ap-guangzhou",
+  "tencent_endpoint": "tmt.tencentcloudapi.com",
+  "tencent_source": "en",
+  "tencent_target": "zh",
+  "tencent_project_id": 0,
+
+  "baidu_id": "20260314002572916",
+  "baidu_key": "AG50_X9KkmUEBJXzL70W",
+  "baidu_from": "en",
+  "baidu_to": "zh",
+
+  "deepl_auth_key": "",
+  "deepl_endpoint": ""
+}
