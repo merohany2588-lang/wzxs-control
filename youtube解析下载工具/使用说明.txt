@@ -1,0 +1,37 @@
+多站点批量下载器 v3.8 Pro
+
+启动：
+1. 双击 run.bat
+2. 首次启动会创建 .venv 并安装依赖；后续不会重复安装。
+
+抖音 Fresh cookies 说明：
+- 抖音现在经常要求 Fresh cookies，不一定需要登录，但必须是浏览器刚访问过 douyin.com 后生成的新 Cookie。
+- 处理步骤：
+  1) 用 Chrome 或 Edge 打开 https://www.douyin.com/ 并播放一次目标视频。
+  2) 软件 → 下载设置 → 浏览器Cookie 填 chrome 或 edge。
+  3) 如有多个浏览器 Profile，可在“浏览器Profile”填 Default 或 Profile 1。
+  4) 点击“Cookie诊断”，确认 Cookie 来源已配置。
+  5) 保存设置，重新解析。
+- 如果浏览器 Cookie 仍读取失败，可以用浏览器扩展导出 Netscape 格式 cookies.txt，然后在“cookies.txt”里选择该文件。
+- cookies.txt 优先级高于浏览器 Cookie。
+
+超时说明：
+- 如果出现 read operation timed out，把“解析超时秒数”调到 300-360。
+- 如果网络 IPv6 不稳定，可勾选“强制 IPv4”。
+
+打包：
+1. 把 app.ico 放进本目录
+2. 双击 build_exe.bat
+3. 输出 dist\YouTubeDownloaderPro.exe
+
+
+[v3.10]
+- 抖音未手动配置 Cookie 时，自动尝试 Edge/Chrome/Firefox Cookie。
+- 抖音 Fresh cookies 不再误报“不是普通视频”，会在任务列表显示“需要 Cookie 后重试”。
+- 若仍失败，请导出 Netscape cookies.txt 并在设置中选择。
+
+
+[v3.10 修复]
+- 下载设置页改为可滚动布局。
+- 保存设置/恢复默认/Cookie诊断/选择cookies.txt 固定在底部，不再因窗口高度不足点不到。
+- 支持 Ctrl+S 保存设置。
