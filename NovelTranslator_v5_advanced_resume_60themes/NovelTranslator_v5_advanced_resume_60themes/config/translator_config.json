@@ -1,0 +1,48 @@
+{
+  "engine_order": [
+    "google_free",
+    "mymemory",
+    "opus_mt",
+    "tencent",
+    "baidu"
+  ],
+  "request_interval": 0.8,
+  "retry_times": 3,
+  "max_chars_per_chunk": 2000,
+  "output_encoding": "utf-8-sig",
+  "tencent": {
+    "enabled": false,
+    "secret_id": "",
+    "secret_key": "",
+    "region": "ap-guangzhou"
+  },
+  "baidu": {
+    "enabled": false,
+    "app_id": "",
+    "secret_key": ""
+  },
+  "google_free": {
+    "enabled": true,
+    "interval": 1.5
+  },
+  "mymemory": {
+    "enabled": true
+  },
+  "libre": {
+    "enabled": false,
+    "api_url": "https://libretranslate.com/translate",
+    "api_key": ""
+  },
+  "strategy": "free_offline",
+  "opus_mt": {
+    "enabled": true,
+    "model_path": "G:/AI_Models/translation/opus-mt-zh-en",
+    "device": "auto",
+    "max_new_tokens": 900,
+    "offline_only": false
+  },
+  "theme_name": "crimson",
+  "resume_enabled": true,
+  "realtime_write": true,
+  "checkpoint_interval": 1
+}
