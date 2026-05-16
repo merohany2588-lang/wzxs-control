@@ -1,0 +1,245 @@
+﻿Ultimate C Drive Strike Report
+================================================================
+Generated At: 2026-04-05 21:32:53
+Drive C: Used 67.22 GB / Free 22.78 GB / Total 90 GB / Usage 74.69%
+
+Actions:
+ 1. Disable hibernation -> 0 B  If hibernation was already off, this may be 0 B.
+ 2. DISM component cleanup -> 0 B  Actual release amount is measured by disk delta.
+ 3. User Temp -> 164.85 KB  
+ 4. Windows Temp -> 0 B  
+ 5. Recent -> 0 B  
+ 6. CrashDumps -> 0 B  
+ 7. Chrome Cache -> 18.79 MB  
+ 8. Chrome Code Cache -> 7.62 MB  
+ 9. Edge Cache -> 0 B  
+10. Edge Code Cache -> 0 B  
+11. Jianying Cache -> 0 B  
+12. WER -> 0 B  
+13. Windows Update Download Cache -> 0 B  
+14. Recycle Bin -> 7.13 KB  
+15. Deep Cache: C:\Users\Administrator\AppData\Local\cache -> 9.59 KB  
+16. Deep Cache: C:\Users\Administrator\AppData\Local\115Chrome\User Data\GrShaderCache -> 7.13 MB  
+17. Deep Cache: C:\Users\Administrator\AppData\Local\115Chrome\User Data\ShaderCache -> 544.36 KB  
+18. Deep Cache: C:\Users\Administrator\AppData\Local\115Chrome\User Data\Default\Cache -> 258.12 MB  
+19. Deep Cache: C:\Users\Administrator\AppData\Local\115Chrome\User Data\Default\Code Cache -> 9.29 MB  
+20. Deep Cache: C:\Users\Administrator\AppData\Local\115Chrome\User Data\Default\GPUCache -> 5.57 MB  
+21. Deep Cache: C:\Users\Administrator\AppData\Local\115Chrome\User Data\Default\Shared Dictionary\cache -> 72 B  
+22. Deep Cache: C:\Users\Administrator\AppData\Local\BitComet\EBWebView\GrShaderCache -> 4.58 MB  
+23. Deep Cache: C:\Users\Administrator\AppData\Local\BitComet\EBWebView\ShaderCache -> 544.36 KB  
+24. Deep Cache: C:\Users\Administrator\AppData\Local\BitComet\EBWebView\Default\Cache -> 6.80 MB  
+25. Deep Cache: C:\Users\Administrator\AppData\Local\BitComet\EBWebView\Default\Code Cache -> 1.62 MB  
+26. Deep Cache: C:\Users\Administrator\AppData\Local\BitComet\EBWebView\Default\GPUCache -> 544.36 KB  
+27. Deep Cache: C:\Users\Administrator\AppData\Local\BitComet\EBWebView\Default\Shared Dictionary\cache -> 72 B  
+28. Deep Cache: C:\Users\Administrator\AppData\Local\BitComet_x64\EBWebView\GrShaderCache -> 4.57 MB  
+29. Deep Cache: C:\Users\Administrator\AppData\Local\BitComet_x64\EBWebView\ShaderCache -> 544.36 KB  
+30. Deep Cache: C:\Users\Administrator\AppData\Local\BitComet_x64\EBWebView\Default\Cache -> 6.25 MB  
+31. Deep Cache: C:\Users\Administrator\AppData\Local\BitComet_x64\EBWebView\Default\Code Cache -> 5.33 KB  
+32. Deep Cache: C:\Users\Administrator\AppData\Local\BitComet_x64\EBWebView\Default\GPUCache -> 544.36 KB  
+33. Deep Cache: C:\Users\Administrator\AppData\Local\BitComet_x64\EBWebView\Default\Shared Dictionary\cache -> 72 B  
+34. Deep Cache: C:\Users\Administrator\AppData\Local\Bytedance\JianyingPro\cache -> 8.84 KB  
+35. Deep Cache: C:\Users\Administrator\AppData\Local\Doubao\User Data\GrShaderCache -> 1.25 MB  
+36. Deep Cache: C:\Users\Administrator\AppData\Local\Doubao\User Data\Default\Cache -> 37.62 MB  
+37. Deep Cache: C:\Users\Administrator\AppData\Local\Doubao\User Data\Default\Code Cache -> 63.90 MB  
+38. Deep Cache: C:\Users\Administrator\AppData\Local\Doubao\User Data\Default\Shared Dictionary\cache -> 72 B  
+39. Deep Cache: C:\Users\Administrator\AppData\Local\Doubao\User Data\repair\cache -> 3.52 MB  
+40. Deep Cache: C:\Users\Administrator\AppData\Local\Francochinois\eudic\cache -> 10.84 MB  
+41. Deep Cache: C:\Users\Administrator\AppData\Local\Francochinois\eudic\QtWebEngine\Default\GPUCache -> 4.77 MB  
+42. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\GrShaderCache -> 3.03 MB  
+43. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Cache -> 1.23 MB  
+44. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Code Cache -> 19.67 KB  
+45. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Shared Dictionary\cache -> 1.41 MB  
+46. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Code Cache -> 476 B  
+47. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\GPUCache -> 544.36 KB  
+48. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Shared Dictionary\cache -> 72 B  
+49. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Guest Profile\Cache -> 1.82 MB  
+50. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Guest Profile\Code Cache -> 144 B  
+51. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Guest Profile\GPUCache -> 544.36 KB  
+52. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Guest Profile\Shared Dictionary\cache -> 72 B  
+53. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\Cache -> 21.43 MB  
+54. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\Code Cache -> 15.53 MB  
+55. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\GPUCache -> 544.36 KB  
+56. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\Shared Dictionary\cache -> 171.54 KB  
+57. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Code Cache -> 476 B  
+58. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\GPUCache -> 544.36 KB  
+59. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Shared Dictionary\cache -> 72 B  
+60. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\System Profile\Code Cache -> 144 B  
+61. Deep Cache: C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\System Profile\Shared Dictionary\cache -> 72 B  
+62. Deep Cache: C:\Users\Administrator\AppData\Local\hiroi-sora\Umi-OCR\cache -> 1,023.00 KB  
+63. Deep Cache: C:\Users\Administrator\AppData\Local\JianyingPro\User Data\CEF\Cache -> 13.98 MB  
+64. Deep Cache: C:\Users\Administrator\AppData\Local\JianyingPro\User Data\CEF\GrShaderCache -> 4.67 MB  
+65. Deep Cache: C:\Users\Administrator\AppData\Local\JianyingPro\User Data\CEF\ShaderCache -> 544.36 KB  
+66. Deep Cache: C:\Users\Administrator\AppData\Local\JianyingPro\User Data\Log\alog\cache -> 1.31 MB  
+67. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Edge\User Data\GrShaderCache -> 5.50 MB  
+68. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Edge\User Data\ShaderCache -> 1.57 MB  
+69. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Edge\User Data\Default\GPUCache -> 544.36 KB  
+70. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Edge\User Data\Default\Shared Dictionary\cache -> 72 B  
+71. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Edge\User Data\Default\Storage\ext\ihmafllikibpmigkcoadcmckbfhibefp\def\Code Cache -> 453 B  
+72. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Edge\User Data\Default\Storage\ext\ihmafllikibpmigkcoadcmckbfhibefp\def\GPUCache -> 544.36 KB  
+73. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Edge\User Data\Default\Storage\ext\ihmafllikibpmigkcoadcmckbfhibefp\def\Shared Dictionary\cache -> 72 B  
+74. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\0\EBWebView\GrShaderCache -> 4.57 MB  
+75. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\0\EBWebView\ShaderCache -> 544.36 KB  
+76. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\0\EBWebView\Default\Cache -> 5.20 MB  
+77. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\0\EBWebView\Default\Code Cache -> 46.00 MB  
+78. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\0\EBWebView\Default\GPUCache -> 544.36 KB  
+79. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\0\EBWebView\Default\Shared Dictionary\cache -> 72 B  
+80. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\GrShaderCache -> 4.57 MB  
+81. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\ShaderCache -> 544.36 KB  
+82. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\Cache -> 6.08 MB  
+83. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\Code Cache -> 23.93 KB  
+84. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\GPUCache -> 544.36 KB  
+85. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\Office\16.0\Wef\webview2\2\EBWebView\Default\Shared Dictionary\cache -> 72 B  
+86. Deep Cache: C:\Users\Administrator\AppData\Local\Microsoft\TokenBroker\Cache -> 15.00 KB  
+87. Deep Cache: C:\Users\Administrator\AppData\Local\mpv\cache -> 3.04 MB  
+88. Deep Cache: C:\Users\Administrator\AppData\Local\NetEase\CloudMusic\Cache -> 442.59 MB  
+89. Deep Cache: C:\Users\Administrator\AppData\Local\NetEase\CloudMusic\Temp -> 76.63 KB  
+90. Deep Cache: C:\Users\Administrator\AppData\Local\NetEase\CloudMusic\Log\BI\cache -> 200.00 KB  
+91. Deep Cache: C:\Users\Administrator\AppData\Local\NetEase\CloudMusic\webapp91x64\Cache -> 2.66 MB  
+92. Deep Cache: C:\Users\Administrator\AppData\Local\NetEase\CloudMusic\webapp91x64\Code Cache -> 3.40 KB  
+93. Deep Cache: C:\Users\Administrator\AppData\Local\OneDrive\cache -> 54.73 KB  
+94. Deep Cache: C:\Users\Administrator\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\GrShaderCache -> 4.57 MB  
+95. Deep Cache: C:\Users\Administrator\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\ShaderCache -> 544.36 KB  
+96. Deep Cache: C:\Users\Administrator\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\Default\Cache -> 12.73 MB  
+97. Deep Cache: C:\Users\Administrator\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\Default\Code Cache -> 14.38 MB  
+98. Deep Cache: C:\Users\Administrator\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\Default\GPUCache -> 1.57 MB  
+99. Deep Cache: C:\Users\Administrator\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\Default\Shared Dictionary\cache -> 72 B  
+100. Deep Cache: C:\Users\Administrator\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\AC\TokenBroker\Cache -> 2.69 KB  
+101. Deep Cache: C:\Users\Administrator\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\Temp -> 967.03 KB  
+102. Deep Cache: C:\Users\Administrator\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\TokenBroker\Cache -> 10.09 KB  
+103. Deep Cache: C:\Users\Administrator\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache -> 1.77 MB  
+104. Deep Cache: C:\Users\Administrator\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache -> 3.94 MB  
+105. Deep Cache: C:\Users\Administrator\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\EBWebView\Default\Code Cache -> 27.96 MB  
+106. Deep Cache: C:\Users\Administrator\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\EBWebView\Default\Shared Dictionary\cache -> 72 B  
+107. Deep Cache: C:\Users\Administrator\AppData\Local\PC Manager Store\webview2\EBWebView\GrShaderCache -> 4.57 MB  
+108. Deep Cache: C:\Users\Administrator\AppData\Local\PC Manager Store\webview2\EBWebView\ShaderCache -> 544.36 KB  
+109. Deep Cache: C:\Users\Administrator\AppData\Local\PC Manager Store\webview2\EBWebView\Default\Cache -> 836.38 KB  
+110. Deep Cache: C:\Users\Administrator\AppData\Local\PC Manager Store\webview2\EBWebView\Default\Code Cache -> 2.48 KB  
+111. Deep Cache: C:\Users\Administrator\AppData\Local\PC Manager Store\webview2\EBWebView\Default\GPUCache -> 544.36 KB  
+112. Deep Cache: C:\Users\Administrator\AppData\Local\PC Manager Store\webview2\EBWebView\Default\Shared Dictionary\cache -> 72 B  
+113. Deep Cache: C:\Users\Administrator\AppData\Local\pip\cache -> 322 B  
+114. Deep Cache: C:\Users\Administrator\AppData\Local\Pub\Cache -> 436.17 MB  
+115. Deep Cache: C:\Users\Administrator\AppData\Local\Quark\User Data\GrShaderCache -> 2.40 MB  
+116. Deep Cache: C:\Users\Administrator\AppData\Local\Quark\User Data\Default\Cache -> 194.63 MB  
+117. Deep Cache: C:\Users\Administrator\AppData\Local\Quark\User Data\Default\Code Cache -> 77.63 MB  
+118. Deep Cache: C:\Users\Administrator\AppData\Local\Quark\User Data\Default\Shared Dictionary\cache -> 72 B  
+119. Deep Cache: C:\Users\Administrator\AppData\Local\uv\cache -> 35.40 MB  
+120. Deep Cache: C:\Users\Administrator\AppData\Roaming\baidunetdisk\Cache -> 20.98 MB  
+121. Deep Cache: C:\Users\Administrator\AppData\Roaming\baidunetdisk\Code Cache -> 75.07 KB  
+122. Deep Cache: C:\Users\Administrator\AppData\Roaming\baidunetdisk\DawnCache -> 544.36 KB  
+123. Deep Cache: C:\Users\Administrator\AppData\Roaming\baidunetdisk\GPUCache -> 544.36 KB  
+124. Deep Cache: C:\Users\Administrator\AppData\Roaming\baidunetdisk\Storage\ext\fake-host\def\DawnCache -> 544.36 KB  
+125. Deep Cache: C:\Users\Administrator\AppData\Roaming\baidunetdisk\Storage\ext\fake-host\def\GPUCache -> 544.36 KB  
+126. Deep Cache: C:\Users\Administrator\AppData\Roaming\BitComet\cache -> 16.00 KB  
+127. Deep Cache: C:\Users\Administrator\AppData\Roaming\Code\Cache -> 5.82 MB  
+128. Deep Cache: C:\Users\Administrator\AppData\Roaming\Code\Code Cache -> 144 B  
+129. Deep Cache: C:\Users\Administrator\AppData\Roaming\Code\GPUCache -> 1.57 MB  
+130. Deep Cache: C:\Users\Administrator\AppData\Roaming\Code\Shared Dictionary\cache -> 72 B  
+131. Deep Cache: C:\Users\Administrator\AppData\Roaming\Francochinois\eudic\tmp -> 16.12 MB  
+132. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\cache -> 600.00 KB  
+133. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\game\Code Cache -> 144 B  
+134. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\game\Shared Dictionary\cache -> 72 B  
+135. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\game_651b67a468cd6a6c68ed11cb6dcec02e\Code Cache -> 144 B  
+136. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\game_651b67a468cd6a6c68ed11cb6dcec02e\Shared Dictionary\cache -> 72 B  
+137. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\multitab\Code Cache -> 144 B  
+138. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\multitab\Shared Dictionary\cache -> 72 B  
+139. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\multitab_651b67a468cd6a6c68ed11cb6dcec02e\Code Cache -> 2.56 MB  
+140. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\multitab_651b67a468cd6a6c68ed11cb6dcec02e\GPUCache -> 1.57 MB  
+141. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\multitab_651b67a468cd6a6c68ed11cb6dcec02e\Shared Dictionary\cache -> 72 B  
+142. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\webview_651b67a468cd6a6c68ed11cb6dcec02e\Code Cache -> 397 B  
+143. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\webview_651b67a468cd6a6c68ed11cb6dcec02e\GPUCache -> 544.36 KB  
+144. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\webview_651b67a468cd6a6c68ed11cb6dcec02e\Shared Dictionary\cache -> 72 B  
+145. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\web_shell\Code Cache -> 144 B  
+146. Deep Cache: C:\Users\Administrator\AppData\Roaming\Tencent\xwechat\radium\web\profiles\web_shell\Shared Dictionary\cache -> 72 B  
+147. Deep Cache: C:\Users\Administrator\AppData\Roaming\ting_en\Cache -> 210.30 MB  
+148. Deep Cache: C:\Users\Administrator\AppData\Roaming\ting_en\Code Cache -> 4.39 MB  
+149. Deep Cache: C:\Users\Administrator\AppData\Roaming\ting_en\DawnCache -> 544.36 KB  
+150. Deep Cache: C:\Users\Administrator\AppData\Roaming\ting_en\GPUCache -> 544.36 KB  
+151. Deep Cache: C:\Users\Administrator\AppData\Roaming\ting_en\Storage\ext\fake-host\def\DawnCache -> 544.36 KB  
+152. Deep Cache: C:\Users\Administrator\AppData\Roaming\ting_en\Storage\ext\fake-host\def\GPUCache -> 544.36 KB  
+153. Deep Cache: C:\Users\Administrator\AppData\Roaming\ting_en\ting\tmp -> 586.86 KB  
+154. pip cache purge -> 0 B  
+155. Actual free space gained this round -> 1.96 GB  Use actual disk delta as the source of truth.
+156. Disable hibernation -> 0 B  If hibernation was already off, this may be 0 B.
+157. DISM component cleanup -> 0 B  Actual release amount is measured by disk delta.
+
+Top Usage Items:
+ 1. 22.01 GB     | System Folder | C:\Windows | Do not delete manually; inspect WinSxS and Installer.
+ 2. 14.95 GB     | User Folder | C:\Users | Inspect AppData, Downloads, Desktop.
+ 3. 12.51 GB     | User Cache | C:\Users\Administrator\AppData\Local | Inspect Programs, JianyingPro, Google, Microsoft, pip, Doubao, Quark.
+ 4. 10.93 GB     | App Folder | C:\Program Files | Uninstall large apps you do not need.
+ 5. 9.37 GB      | App Folder | C:\Program Files (x86) | Uninstall large apps you do not need.
+ 6. 8.53 GB      | System Component | C:\Windows\WinSxS | Use DISM only; never delete manually.
+ 7. 8.53 GB      | First Level Child | C:\Windows\WinSxS | Inside C:\Windows
+ 8. 6.60 GB      | First Level Child | C:\Windows\System32 | Inside C:\Windows
+ 9. 5.35 GB      | First Level Child | C:\Program Files\Microsoft Office | Inside C:\Program Files
+10. 5.35 GB      | Large App | C:\Program Files\Microsoft Office | Uninstall if not needed.
+11. 4.36 GB      | First Level Child | C:\Program Files\WindowsApps | Inside C:\Program Files
+12. 4.36 GB      | Store Apps | C:\Program Files\WindowsApps | Uninstall through Windows settings, not by deleting files.
+13. 3.55 GB      | First Level Child | C:\Program Files (x86)\Microsoft | Inside C:\Program Files (x86)
+14. 3.40 GB      | First Level Child | C:\Users\Administrator\AppData\Local\Programs | Inside C:\Users\Administrator\AppData\Local
+15. 3.39 GB      | Hidden Folder | C:\ProgramData | Inspect Package Cache and app caches.
+16. 3.28 GB      | First Level Child | C:\Program Files (x86)\Microsoft Visual Studio | Inside C:\Program Files (x86)
+17. 3.28 GB      | Large App | C:\Program Files (x86)\Microsoft Visual Studio | Uninstall if not needed.
+18. 2.61 GB      | First Level Child | C:\ProgramData\Microsoft | Inside C:\ProgramData
+19. 2.61 GB      | Hidden Folder | C:\ProgramData\Microsoft | Inspect large child folders.
+20. 2.41 GB      | First Level Child | C:\Users\Administrator\AppData\Local\JianyingPro | Inside C:\Users\Administrator\AppData\Local
+21. 1.93 GB      | First Level Child | C:\Users\Administrator\AppData\Local\Google | Inside C:\Users\Administrator\AppData\Local
+22. 1.67 GB      | First Level Child | C:\Program Files (x86)\Windows Kits | Inside C:\Program Files (x86)
+23. 1.67 GB      | Dev Component | C:\Program Files (x86)\Windows Kits | Uninstall if not needed.
+24. 1.46 GB      | First Level Child | C:\Users\Administrator\AppData\Local\Microsoft | Inside C:\Users\Administrator\AppData\Local
+25. 1.28 GB      | First Level Child | C:\Windows\assembly | Inside C:\Windows
+26. 1.19 GB      | First Level Child | C:\Windows\servicing | Inside C:\Windows
+27. 1.12 GB      | First Level Child | C:\Windows\SysWOW64 | Inside C:\Windows
+28. 757.17 MB    | First Level Child | C:\Users\Administrator\AppData\Local\Doubao | Inside C:\Users\Administrator\AppData\Local
+29. 671.83 MB    | First Level Child | C:\Users\Administrator\AppData\Local\Quark | Inside C:\Users\Administrator\AppData\Local
+30. 601.18 MB    | First Level Child | C:\Windows\Microsoft.NET | Inside C:\Windows
+31. 563.72 MB    | First Level Child | C:\Windows\Fonts | Inside C:\Windows
+32. 557.64 MB    | First Level Child | C:\Windows\Dpbnssqgt | Inside C:\Windows
+33. 505.01 MB    | First Level Child | C:\ProgramData\Package Cache | Inside C:\ProgramData
+34. 505.01 MB    | Installer Cache | C:\ProgramData\Package Cache | May be removable after confirmation.
+35. 471.01 MB    | First Level Child | C:\Users\Administrator\AppData\Local\NetEase | Inside C:\Users\Administrator\AppData\Local
+36. 466.14 MB    | First Level Child | C:\Program Files (x86)\Google | Inside C:\Program Files (x86)
+37. 436.17 MB    | First Level Child | C:\Users\Administrator\AppData\Local\Pub | Inside C:\Users\Administrator\AppData\Local
+38. 400.09 MB    | First Level Child | C:\Program Files\CherryTree | Inside C:\Program Files
+39. 383.71 MB    | First Level Child | C:\Windows\Containers | Inside C:\Windows
+40. 302.26 MB    | First Level Child | C:\Users\Administrator\AppData\Local\115Chrome | Inside C:\Users\Administrator\AppData\Local
+41. 243.96 MB    | First Level Child | C:\Program Files\NVIDIA Corporation | Inside C:\Program Files
+42. 234.98 MB    | First Level Child | C:\Users\Administrator\AppData\Local\Packages | Inside C:\Users\Administrator\AppData\Local
+43. 234.98 MB    | UWP Cache | C:\Users\Administrator\AppData\Local\Packages | Inspect large child folders; do not wipe the whole folder blindly.
+44. 230.87 MB    | First Level Child | C:\Program Files\Windows Defender Advanced Threat Protection | Inside C:\Program Files
+45. 224.18 MB    | First Level Child | C:\ProgramData\NVIDIA | Inside C:\ProgramData
+46. 198.31 MB    | First Level Child | C:\Program Files (x86)\NVIDIA Corporation | Inside C:\Program Files (x86)
+47. 184.95 MB    | First Level Child | C:\Windows\SystemApps | Inside C:\Windows
+48. 182.74 MB    | First Level Child | C:\Program Files\Common Files | Inside C:\Program Files
+49. 166.69 MB    | First Level Child | C:\Users\Administrator\AppData\Local\Temp | Inside C:\Users\Administrator\AppData\Local
+50. 156.22 MB    | First Level Child | C:\Windows\SystemResources | Inside C:\Windows
+51. 136.17 MB    | First Level Child | C:\Program Files (x86)\AlibabaProtect | Inside C:\Program Files (x86)
+52. 95.58 MB     | First Level Child | C:\Users\Administrator\AppData\Local\Viwez | Inside C:\Users\Administrator\AppData\Local
+53. 93.32 MB     | First Level Child | C:\Windows\InputMethod | Inside C:\Windows
+54. 92.79 MB     | First Level Child | C:\Windows\Speech_OneCore | Inside C:\Windows
+55. 81.53 MB     | First Level Child | C:\Windows\Installer | Inside C:\Windows
+56. 81.53 MB     | Installer Cache | C:\Windows\Installer | Do not delete manually.
+57. 73.20 MB     | First Level Child | C:\Windows\ServiceProfiles | Inside C:\Windows
+58. 71.09 MB     | First Level Child | C:\Windows\Speech | Inside C:\Windows
+59. 70.25 MB     | First Level Child | C:\Windows\SystemTemp | Inside C:\Windows
+60. 66.86 MB     | First Level Child | C:\Windows\Boot | Inside C:\Windows
+61. 64.33 MB     | First Level Child | C:\Windows\Globalization | Inside C:\Windows
+62. 64.28 MB     | First Level Child | C:\Program Files\MuMuVMMVbox | Inside C:\Program Files
+63. 51.89 MB     | First Level Child | C:\Windows\INF | Inside C:\Windows
+64. 46.22 MB     | First Level Child | C:\Windows\SoftwareDistribution | Inside C:\Windows
+65. 43.33 MB     | First Level Child | C:\Program Files (x86)\Common Files | Inside C:\Program Files (x86)
+66. 42.29 MB     | First Level Child | C:\Program Files\QuarkUpdater | Inside C:\Program Files
+67. 39.38 MB     | First Level Child | C:\Users\Administrator\AppData\Local\BitComet | Inside C:\Users\Administrator\AppData\Local
+68. 38.23 MB     | First Level Child | C:\Users\Administrator\AppData\Local\Comms | Inside C:\Users\Administrator\AppData\Local
+69. 38.12 MB     | First Level Child | C:\Users\Administrator\AppData\Local\BitComet_x64 | Inside C:\Users\Administrator\AppData\Local
+70. 35.40 MB     | First Level Child | C:\Users\Administrator\AppData\Local\uv | Inside C:\Users\Administrator\AppData\Local
+71. 33.77 MB     | First Level Child | C:\Users\Administrator\AppData\Local\NVIDIA | Inside C:\Users\Administrator\AppData\Local
+72. 27.49 MB     | First Level Child | C:\Windows\IME | Inside C:\Windows
+73. 27.40 MB     | First Level Child | C:\Program Files\SumatraPDF | Inside C:\Program Files
+74. 25.60 MB     | First Level Child | C:\Users\Administrator\AppData\Local\Package Cache | Inside C:\Users\Administrator\AppData\Local
+75. 20.00 MB     | First Level Child | C:\ProgramData\boost_interprocess | Inside C:\ProgramData
+76. 19.13 MB     | First Level Child | C:\Windows\Media | Inside C:\Windows
+77. 18.19 MB     | First Level Child | C:\Windows\ShellExperiences | Inside C:\Windows
+78. 17.42 MB     | First Level Child | C:\ProgramData\NVIDIA Corporation | Inside C:\ProgramData
+79. 17.09 MB     | First Level Child | C:\Windows\appcompat | Inside C:\Windows
+80. 16.18 MB     | First Level Child | C:\ProgramData\Avast Software | Inside C:\ProgramData

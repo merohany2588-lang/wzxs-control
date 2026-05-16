@@ -1,0 +1,1598 @@
+﻿{
+    "GeneratedAt":  "2026-04-05 21:32:53",
+    "Drive":  {
+                  "UsedBytes":  72174116864,
+                  "FreeBytes":  24463691776,
+                  "TotalBytes":  96637808640,
+                  "UsedGB":  67.22,
+                  "FreeGB":  22.78,
+                  "TotalGB":  90,
+                  "UsedPct":  74.69
+              },
+    "Actions":  [
+                    {
+                        "Name":  "Disable hibernation",
+                        "FreedBytes":  0,
+                        "Freed":  "0 B",
+                        "Note":  "If hibernation was already off, this may be 0 B."
+                    },
+                    {
+                        "Name":  "DISM component cleanup",
+                        "FreedBytes":  0,
+                        "Freed":  "0 B",
+                        "Note":  "Actual release amount is measured by disk delta."
+                    },
+                    {
+                        "Name":  "User Temp",
+                        "FreedBytes":  168808,
+                        "Freed":  "164.85 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Windows Temp",
+                        "FreedBytes":  0,
+                        "Freed":  "0 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Recent",
+                        "FreedBytes":  0,
+                        "Freed":  "0 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "CrashDumps",
+                        "FreedBytes":  0,
+                        "Freed":  "0 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Chrome Cache",
+                        "FreedBytes":  19702858,
+                        "Freed":  "18.79 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Chrome Code Cache",
+                        "FreedBytes":  7989152,
+                        "Freed":  "7.62 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Edge Cache",
+                        "FreedBytes":  0,
+                        "Freed":  "0 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Edge Code Cache",
+                        "FreedBytes":  0,
+                        "Freed":  "0 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Jianying Cache",
+                        "FreedBytes":  0,
+                        "Freed":  "0 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "WER",
+                        "FreedBytes":  0,
+                        "Freed":  "0 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Windows Update Download Cache",
+                        "FreedBytes":  0,
+                        "Freed":  "0 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Recycle Bin",
+                        "FreedBytes":  7298,
+                        "Freed":  "7.13 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\cache",
+                        "FreedBytes":  9816,
+                        "Freed":  "9.59 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\115Chrome\\User Data\\GrShaderCache",
+                        "FreedBytes":  7474840,
+                        "Freed":  "7.13 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\115Chrome\\User Data\\ShaderCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\115Chrome\\User Data\\Default\\Cache",
+                        "FreedBytes":  270660035,
+                        "Freed":  "258.12 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\115Chrome\\User Data\\Default\\Code Cache",
+                        "FreedBytes":  9740387,
+                        "Freed":  "9.29 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\115Chrome\\User Data\\Default\\GPUCache",
+                        "FreedBytes":  5837168,
+                        "Freed":  "5.57 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\115Chrome\\User Data\\Default\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\BitComet\\EBWebView\\GrShaderCache",
+                        "FreedBytes":  4805172,
+                        "Freed":  "4.58 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\BitComet\\EBWebView\\ShaderCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\BitComet\\EBWebView\\Default\\Cache",
+                        "FreedBytes":  7134326,
+                        "Freed":  "6.80 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\BitComet\\EBWebView\\Default\\Code Cache",
+                        "FreedBytes":  1699286,
+                        "Freed":  "1.62 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\BitComet\\EBWebView\\Default\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\BitComet\\EBWebView\\Default\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\BitComet_x64\\EBWebView\\GrShaderCache",
+                        "FreedBytes":  4788592,
+                        "Freed":  "4.57 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\BitComet_x64\\EBWebView\\ShaderCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\BitComet_x64\\EBWebView\\Default\\Cache",
+                        "FreedBytes":  6548449,
+                        "Freed":  "6.25 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\BitComet_x64\\EBWebView\\Default\\Code Cache",
+                        "FreedBytes":  5456,
+                        "Freed":  "5.33 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\BitComet_x64\\EBWebView\\Default\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\BitComet_x64\\EBWebView\\Default\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Bytedance\\JianyingPro\\cache",
+                        "FreedBytes":  9052,
+                        "Freed":  "8.84 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Doubao\\User Data\\GrShaderCache",
+                        "FreedBytes":  1311388,
+                        "Freed":  "1.25 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Doubao\\User Data\\Default\\Cache",
+                        "FreedBytes":  39448394,
+                        "Freed":  "37.62 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Doubao\\User Data\\Default\\Code Cache",
+                        "FreedBytes":  67005856,
+                        "Freed":  "63.90 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Doubao\\User Data\\Default\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Doubao\\User Data\\repair\\cache",
+                        "FreedBytes":  3687332,
+                        "Freed":  "3.52 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Francochinois\\eudic\\cache",
+                        "FreedBytes":  11366215,
+                        "Freed":  "10.84 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Francochinois\\eudic\\QtWebEngine\\Default\\GPUCache",
+                        "FreedBytes":  5004394,
+                        "Freed":  "4.77 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\GrShaderCache",
+                        "FreedBytes":  3174588,
+                        "Freed":  "3.03 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache",
+                        "FreedBytes":  1284964,
+                        "Freed":  "1.23 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Code Cache",
+                        "FreedBytes":  20137,
+                        "Freed":  "19.67 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Shared Dictionary\\cache",
+                        "FreedBytes":  1482584,
+                        "Freed":  "1.41 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\nmmhkkegccagdldgiimedpiccmgmieda\\def\\Code Cache",
+                        "FreedBytes":  476,
+                        "Freed":  "476 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\nmmhkkegccagdldgiimedpiccmgmieda\\def\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Storage\\ext\\nmmhkkegccagdldgiimedpiccmgmieda\\def\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Guest Profile\\Cache",
+                        "FreedBytes":  1905032,
+                        "Freed":  "1.82 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Guest Profile\\Code Cache",
+                        "FreedBytes":  144,
+                        "Freed":  "144 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Guest Profile\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Guest Profile\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Cache",
+                        "FreedBytes":  22472101,
+                        "Freed":  "21.43 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Code Cache",
+                        "FreedBytes":  16283006,
+                        "Freed":  "15.53 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Shared Dictionary\\cache",
+                        "FreedBytes":  175656,
+                        "Freed":  "171.54 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Storage\\ext\\nmmhkkegccagdldgiimedpiccmgmieda\\def\\Code Cache",
+                        "FreedBytes":  476,
+                        "Freed":  "476 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Storage\\ext\\nmmhkkegccagdldgiimedpiccmgmieda\\def\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Storage\\ext\\nmmhkkegccagdldgiimedpiccmgmieda\\def\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\System Profile\\Code Cache",
+                        "FreedBytes":  144,
+                        "Freed":  "144 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\System Profile\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\hiroi-sora\\Umi-OCR\\cache",
+                        "FreedBytes":  1047552,
+                        "Freed":  "1,023.00 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\JianyingPro\\User Data\\CEF\\Cache",
+                        "FreedBytes":  14655634,
+                        "Freed":  "13.98 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\JianyingPro\\User Data\\CEF\\GrShaderCache",
+                        "FreedBytes":  4899504,
+                        "Freed":  "4.67 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\JianyingPro\\User Data\\CEF\\ShaderCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\JianyingPro\\User Data\\Log\\alog\\cache",
+                        "FreedBytes":  1376256,
+                        "Freed":  "1.31 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Edge\\User Data\\GrShaderCache",
+                        "FreedBytes":  5770276,
+                        "Freed":  "5.50 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Edge\\User Data\\ShaderCache",
+                        "FreedBytes":  1642864,
+                        "Freed":  "1.57 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Storage\\ext\\ihmafllikibpmigkcoadcmckbfhibefp\\def\\Code Cache",
+                        "FreedBytes":  453,
+                        "Freed":  "453 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Storage\\ext\\ihmafllikibpmigkcoadcmckbfhibefp\\def\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Storage\\ext\\ihmafllikibpmigkcoadcmckbfhibefp\\def\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\0\\EBWebView\\GrShaderCache",
+                        "FreedBytes":  4788592,
+                        "Freed":  "4.57 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\0\\EBWebView\\ShaderCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\0\\EBWebView\\Default\\Cache",
+                        "FreedBytes":  5455026,
+                        "Freed":  "5.20 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\0\\EBWebView\\Default\\Code Cache",
+                        "FreedBytes":  48235205,
+                        "Freed":  "46.00 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\0\\EBWebView\\Default\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\0\\EBWebView\\Default\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\EBWebView\\GrShaderCache",
+                        "FreedBytes":  4788592,
+                        "Freed":  "4.57 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\EBWebView\\ShaderCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\EBWebView\\Default\\Cache",
+                        "FreedBytes":  6374334,
+                        "Freed":  "6.08 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\EBWebView\\Default\\Code Cache",
+                        "FreedBytes":  24502,
+                        "Freed":  "23.93 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\EBWebView\\Default\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Office\\16.0\\Wef\\webview2\\2\\EBWebView\\Default\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\TokenBroker\\Cache",
+                        "FreedBytes":  15358,
+                        "Freed":  "15.00 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\mpv\\cache",
+                        "FreedBytes":  3182994,
+                        "Freed":  "3.04 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\NetEase\\CloudMusic\\Cache",
+                        "FreedBytes":  464087257,
+                        "Freed":  "442.59 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\NetEase\\CloudMusic\\Temp",
+                        "FreedBytes":  78469,
+                        "Freed":  "76.63 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\NetEase\\CloudMusic\\Log\\BI\\cache",
+                        "FreedBytes":  204800,
+                        "Freed":  "200.00 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\NetEase\\CloudMusic\\webapp91x64\\Cache",
+                        "FreedBytes":  2790883,
+                        "Freed":  "2.66 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\NetEase\\CloudMusic\\webapp91x64\\Code Cache",
+                        "FreedBytes":  3480,
+                        "Freed":  "3.40 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\OneDrive\\cache",
+                        "FreedBytes":  56044,
+                        "Freed":  "54.73 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\\LocalState\\EBWebView\\GrShaderCache",
+                        "FreedBytes":  4788592,
+                        "Freed":  "4.57 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\\LocalState\\EBWebView\\ShaderCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\\LocalState\\EBWebView\\Default\\Cache",
+                        "FreedBytes":  13351237,
+                        "Freed":  "12.73 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\\LocalState\\EBWebView\\Default\\Code Cache",
+                        "FreedBytes":  15082853,
+                        "Freed":  "14.38 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\\LocalState\\EBWebView\\Default\\GPUCache",
+                        "FreedBytes":  1642864,
+                        "Freed":  "1.57 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\\LocalState\\EBWebView\\Default\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\AC\\TokenBroker\\Cache",
+                        "FreedBytes":  2750,
+                        "Freed":  "2.69 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.Windows.Search_cw5n1h2txyewy\\AC\\Temp",
+                        "FreedBytes":  990242,
+                        "Freed":  "967.03 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.Windows.Search_cw5n1h2txyewy\\AC\\TokenBroker\\Cache",
+                        "FreedBytes":  10330,
+                        "Freed":  "10.09 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.Windows.Search_cw5n1h2txyewy\\LocalState\\EBWebView\\GrShaderCache",
+                        "FreedBytes":  1851296,
+                        "Freed":  "1.77 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.Windows.Search_cw5n1h2txyewy\\LocalState\\EBWebView\\Default\\Cache",
+                        "FreedBytes":  4128689,
+                        "Freed":  "3.94 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.Windows.Search_cw5n1h2txyewy\\LocalState\\EBWebView\\Default\\Code Cache",
+                        "FreedBytes":  29314814,
+                        "Freed":  "27.96 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Packages\\Microsoft.Windows.Search_cw5n1h2txyewy\\LocalState\\EBWebView\\Default\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\\GrShaderCache",
+                        "FreedBytes":  4788592,
+                        "Freed":  "4.57 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\\ShaderCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\\Default\\Cache",
+                        "FreedBytes":  856456,
+                        "Freed":  "836.38 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\\Default\\Code Cache",
+                        "FreedBytes":  2537,
+                        "Freed":  "2.48 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\\Default\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\\Default\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\pip\\cache",
+                        "FreedBytes":  322,
+                        "Freed":  "322 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Pub\\Cache",
+                        "FreedBytes":  457359284,
+                        "Freed":  "436.17 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Quark\\User Data\\GrShaderCache",
+                        "FreedBytes":  2521316,
+                        "Freed":  "2.40 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Quark\\User Data\\Default\\Cache",
+                        "FreedBytes":  204079798,
+                        "Freed":  "194.63 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Quark\\User Data\\Default\\Code Cache",
+                        "FreedBytes":  81398342,
+                        "Freed":  "77.63 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\Quark\\User Data\\Default\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Local\\uv\\cache",
+                        "FreedBytes":  37124004,
+                        "Freed":  "35.40 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\baidunetdisk\\Cache",
+                        "FreedBytes":  21999803,
+                        "Freed":  "20.98 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\baidunetdisk\\Code Cache",
+                        "FreedBytes":  76870,
+                        "Freed":  "75.07 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\baidunetdisk\\DawnCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\baidunetdisk\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\baidunetdisk\\Storage\\ext\\fake-host\\def\\DawnCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\baidunetdisk\\Storage\\ext\\fake-host\\def\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\BitComet\\cache",
+                        "FreedBytes":  16384,
+                        "Freed":  "16.00 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Code\\Cache",
+                        "FreedBytes":  6099336,
+                        "Freed":  "5.82 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Code\\Code Cache",
+                        "FreedBytes":  144,
+                        "Freed":  "144 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Code\\GPUCache",
+                        "FreedBytes":  1642864,
+                        "Freed":  "1.57 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Code\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Francochinois\\eudic\\tmp",
+                        "FreedBytes":  16905926,
+                        "Freed":  "16.12 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\cache",
+                        "FreedBytes":  614400,
+                        "Freed":  "600.00 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\game\\Code Cache",
+                        "FreedBytes":  144,
+                        "Freed":  "144 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\game\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\game_651b67a468cd6a6c68ed11cb6dcec02e\\Code Cache",
+                        "FreedBytes":  144,
+                        "Freed":  "144 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\game_651b67a468cd6a6c68ed11cb6dcec02e\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\multitab\\Code Cache",
+                        "FreedBytes":  144,
+                        "Freed":  "144 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\multitab\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\multitab_651b67a468cd6a6c68ed11cb6dcec02e\\Code Cache",
+                        "FreedBytes":  2680448,
+                        "Freed":  "2.56 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\multitab_651b67a468cd6a6c68ed11cb6dcec02e\\GPUCache",
+                        "FreedBytes":  1642864,
+                        "Freed":  "1.57 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\multitab_651b67a468cd6a6c68ed11cb6dcec02e\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\webview_651b67a468cd6a6c68ed11cb6dcec02e\\Code Cache",
+                        "FreedBytes":  397,
+                        "Freed":  "397 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\webview_651b67a468cd6a6c68ed11cb6dcec02e\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\webview_651b67a468cd6a6c68ed11cb6dcec02e\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\web_shell\\Code Cache",
+                        "FreedBytes":  144,
+                        "Freed":  "144 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\Tencent\\xwechat\\radium\\web\\profiles\\web_shell\\Shared Dictionary\\cache",
+                        "FreedBytes":  72,
+                        "Freed":  "72 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\ting_en\\Cache",
+                        "FreedBytes":  220519418,
+                        "Freed":  "210.30 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\ting_en\\Code Cache",
+                        "FreedBytes":  4600148,
+                        "Freed":  "4.39 MB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\ting_en\\DawnCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\ting_en\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\ting_en\\Storage\\ext\\fake-host\\def\\DawnCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\ting_en\\Storage\\ext\\fake-host\\def\\GPUCache",
+                        "FreedBytes":  557424,
+                        "Freed":  "544.36 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Deep Cache: C:\\Users\\Administrator\\AppData\\Roaming\\ting_en\\ting\\tmp",
+                        "FreedBytes":  600947,
+                        "Freed":  "586.86 KB",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "pip cache purge",
+                        "FreedBytes":  0,
+                        "Freed":  "0 B",
+                        "Note":  ""
+                    },
+                    {
+                        "Name":  "Actual free space gained this round",
+                        "FreedBytes":  2106675200,
+                        "Freed":  "1.96 GB",
+                        "Note":  "Use actual disk delta as the source of truth."
+                    },
+                    {
+                        "Name":  "Disable hibernation",
+                        "FreedBytes":  0,
+                        "Freed":  "0 B",
+                        "Note":  "If hibernation was already off, this may be 0 B."
+                    },
+                    {
+                        "Name":  "DISM component cleanup",
+                        "FreedBytes":  0,
+                        "Freed":  "0 B",
+                        "Note":  "Actual release amount is measured by disk delta."
+                    }
+                ],
+    "TopItems":  [
+                     {
+                         "Name":  "Windows",
+                         "Path":  "C:\\Windows",
+                         "Bytes":  23630804081,
+                         "Size":  "22.01 GB",
+                         "Type":  "System Folder",
+                         "Suggest":  "Do not delete manually; inspect WinSxS and Installer."
+                     },
+                     {
+                         "Name":  "Users",
+                         "Path":  "C:\\Users",
+                         "Bytes":  16050247949,
+                         "Size":  "14.95 GB",
+                         "Type":  "User Folder",
+                         "Suggest":  "Inspect AppData, Downloads, Desktop."
+                     },
+                     {
+                         "Name":  "Users\\Admin\\AppData\\Local",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local",
+                         "Bytes":  13433752956,
+                         "Size":  "12.51 GB",
+                         "Type":  "User Cache",
+                         "Suggest":  "Inspect Programs, JianyingPro, Google, Microsoft, pip, Doubao, Quark."
+                     },
+                     {
+                         "Name":  "Program Files",
+                         "Path":  "C:\\Program Files",
+                         "Bytes":  11737408834,
+                         "Size":  "10.93 GB",
+                         "Type":  "App Folder",
+                         "Suggest":  "Uninstall large apps you do not need."
+                     },
+                     {
+                         "Name":  "Program Files (x86)",
+                         "Path":  "C:\\Program Files (x86)",
+                         "Bytes":  10064682308,
+                         "Size":  "9.37 GB",
+                         "Type":  "App Folder",
+                         "Suggest":  "Uninstall large apps you do not need."
+                     },
+                     {
+                         "Name":  "Windows\\WinSxS",
+                         "Path":  "C:\\Windows\\WinSxS",
+                         "Bytes":  9154493768,
+                         "Size":  "8.53 GB",
+                         "Type":  "System Component",
+                         "Suggest":  "Use DISM only; never delete manually."
+                     },
+                     {
+                         "Name":  "Child: WinSxS",
+                         "Path":  "C:\\Windows\\WinSxS",
+                         "Bytes":  9154493768,
+                         "Size":  "8.53 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: System32",
+                         "Path":  "C:\\Windows\\System32",
+                         "Bytes":  7086174789,
+                         "Size":  "6.60 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: Microsoft Office",
+                         "Path":  "C:\\Program Files\\Microsoft Office",
+                         "Bytes":  5746462112,
+                         "Size":  "5.35 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files"
+                     },
+                     {
+                         "Name":  "Program Files\\Microsoft Office",
+                         "Path":  "C:\\Program Files\\Microsoft Office",
+                         "Bytes":  5746462112,
+                         "Size":  "5.35 GB",
+                         "Type":  "Large App",
+                         "Suggest":  "Uninstall if not needed."
+                     },
+                     {
+                         "Name":  "Child: WindowsApps",
+                         "Path":  "C:\\Program Files\\WindowsApps",
+                         "Bytes":  4681427174,
+                         "Size":  "4.36 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files"
+                     },
+                     {
+                         "Name":  "Program Files\\WindowsApps",
+                         "Path":  "C:\\Program Files\\WindowsApps",
+                         "Bytes":  4681427174,
+                         "Size":  "4.36 GB",
+                         "Type":  "Store Apps",
+                         "Suggest":  "Uninstall through Windows settings, not by deleting files."
+                     },
+                     {
+                         "Name":  "Child: Microsoft",
+                         "Path":  "C:\\Program Files (x86)\\Microsoft",
+                         "Bytes":  3814346105,
+                         "Size":  "3.55 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files (x86)"
+                     },
+                     {
+                         "Name":  "Child: Programs",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\Programs",
+                         "Bytes":  3648193479,
+                         "Size":  "3.40 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "ProgramData",
+                         "Path":  "C:\\ProgramData",
+                         "Bytes":  3644230414,
+                         "Size":  "3.39 GB",
+                         "Type":  "Hidden Folder",
+                         "Suggest":  "Inspect Package Cache and app caches."
+                     },
+                     {
+                         "Name":  "Child: Microsoft Visual Studio",
+                         "Path":  "C:\\Program Files (x86)\\Microsoft Visual Studio",
+                         "Bytes":  3517011570,
+                         "Size":  "3.28 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files (x86)"
+                     },
+                     {
+                         "Name":  "Program Files (x86)\\Microsoft Visual Studio",
+                         "Path":  "C:\\Program Files (x86)\\Microsoft Visual Studio",
+                         "Bytes":  3517011570,
+                         "Size":  "3.28 GB",
+                         "Type":  "Large App",
+                         "Suggest":  "Uninstall if not needed."
+                     },
+                     {
+                         "Name":  "Child: Microsoft",
+                         "Path":  "C:\\ProgramData\\Microsoft",
+                         "Bytes":  2798042202,
+                         "Size":  "2.61 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\ProgramData"
+                     },
+                     {
+                         "Name":  "ProgramData\\Microsoft",
+                         "Path":  "C:\\ProgramData\\Microsoft",
+                         "Bytes":  2798042202,
+                         "Size":  "2.61 GB",
+                         "Type":  "Hidden Folder",
+                         "Suggest":  "Inspect large child folders."
+                     },
+                     {
+                         "Name":  "Child: JianyingPro",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\JianyingPro",
+                         "Bytes":  2585140710,
+                         "Size":  "2.41 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: Google",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\Google",
+                         "Bytes":  2070214882,
+                         "Size":  "1.93 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: Windows Kits",
+                         "Path":  "C:\\Program Files (x86)\\Windows Kits",
+                         "Bytes":  1796265155,
+                         "Size":  "1.67 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files (x86)"
+                     },
+                     {
+                         "Name":  "Program Files (x86)\\Windows Kits",
+                         "Path":  "C:\\Program Files (x86)\\Windows Kits",
+                         "Bytes":  1796265155,
+                         "Size":  "1.67 GB",
+                         "Type":  "Dev Component",
+                         "Suggest":  "Uninstall if not needed."
+                     },
+                     {
+                         "Name":  "Child: Microsoft",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\Microsoft",
+                         "Bytes":  1566961440,
+                         "Size":  "1.46 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: assembly",
+                         "Path":  "C:\\Windows\\assembly",
+                         "Bytes":  1376832158,
+                         "Size":  "1.28 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: servicing",
+                         "Path":  "C:\\Windows\\servicing",
+                         "Bytes":  1273110830,
+                         "Size":  "1.19 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: SysWOW64",
+                         "Path":  "C:\\Windows\\SysWOW64",
+                         "Bytes":  1200384372,
+                         "Size":  "1.12 GB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: Doubao",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\Doubao",
+                         "Bytes":  793946865,
+                         "Size":  "757.17 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: Quark",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\Quark",
+                         "Bytes":  704461089,
+                         "Size":  "671.83 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: Microsoft.NET",
+                         "Path":  "C:\\Windows\\Microsoft.NET",
+                         "Bytes":  630382000,
+                         "Size":  "601.18 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: Fonts",
+                         "Path":  "C:\\Windows\\Fonts",
+                         "Bytes":  591104360,
+                         "Size":  "563.72 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: Dpbnssqgt",
+                         "Path":  "C:\\Windows\\Dpbnssqgt",
+                         "Bytes":  584730087,
+                         "Size":  "557.64 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: Package Cache",
+                         "Path":  "C:\\ProgramData\\Package Cache",
+                         "Bytes":  529543148,
+                         "Size":  "505.01 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\ProgramData"
+                     },
+                     {
+                         "Name":  "ProgramData\\Package Cache",
+                         "Path":  "C:\\ProgramData\\Package Cache",
+                         "Bytes":  529543148,
+                         "Size":  "505.01 MB",
+                         "Type":  "Installer Cache",
+                         "Suggest":  "May be removable after confirmation."
+                     },
+                     {
+                         "Name":  "Child: NetEase",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\NetEase",
+                         "Bytes":  493892135,
+                         "Size":  "471.01 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: Google",
+                         "Path":  "C:\\Program Files (x86)\\Google",
+                         "Bytes":  488780557,
+                         "Size":  "466.14 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files (x86)"
+                     },
+                     {
+                         "Name":  "Child: Pub",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\Pub",
+                         "Bytes":  457359284,
+                         "Size":  "436.17 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: CherryTree",
+                         "Path":  "C:\\Program Files\\CherryTree",
+                         "Bytes":  419521899,
+                         "Size":  "400.09 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files"
+                     },
+                     {
+                         "Name":  "Child: Containers",
+                         "Path":  "C:\\Windows\\Containers",
+                         "Bytes":  402347308,
+                         "Size":  "383.71 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: 115Chrome",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\115Chrome",
+                         "Bytes":  316939519,
+                         "Size":  "302.26 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: NVIDIA Corporation",
+                         "Path":  "C:\\Program Files\\NVIDIA Corporation",
+                         "Bytes":  255806777,
+                         "Size":  "243.96 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files"
+                     },
+                     {
+                         "Name":  "Child: Packages",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\Packages",
+                         "Bytes":  246390926,
+                         "Size":  "234.98 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Users\\Admin\\AppData\\Local\\Packages",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\Packages",
+                         "Bytes":  246390926,
+                         "Size":  "234.98 MB",
+                         "Type":  "UWP Cache",
+                         "Suggest":  "Inspect large child folders; do not wipe the whole folder blindly."
+                     },
+                     {
+                         "Name":  "Child: Windows Defender Advanced Threat Protection",
+                         "Path":  "C:\\Program Files\\Windows Defender Advanced Threat Protection",
+                         "Bytes":  242080041,
+                         "Size":  "230.87 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files"
+                     },
+                     {
+                         "Name":  "Child: NVIDIA",
+                         "Path":  "C:\\ProgramData\\NVIDIA",
+                         "Bytes":  235067244,
+                         "Size":  "224.18 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\ProgramData"
+                     },
+                     {
+                         "Name":  "Child: NVIDIA Corporation",
+                         "Path":  "C:\\Program Files (x86)\\NVIDIA Corporation",
+                         "Bytes":  207938052,
+                         "Size":  "198.31 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files (x86)"
+                     },
+                     {
+                         "Name":  "Child: SystemApps",
+                         "Path":  "C:\\Windows\\SystemApps",
+                         "Bytes":  193936788,
+                         "Size":  "184.95 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: Common Files",
+                         "Path":  "C:\\Program Files\\Common Files",
+                         "Bytes":  191611920,
+                         "Size":  "182.74 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files"
+                     },
+                     {
+                         "Name":  "Child: Temp",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\Temp",
+                         "Bytes":  174785023,
+                         "Size":  "166.69 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: SystemResources",
+                         "Path":  "C:\\Windows\\SystemResources",
+                         "Bytes":  163813275,
+                         "Size":  "156.22 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: AlibabaProtect",
+                         "Path":  "C:\\Program Files (x86)\\AlibabaProtect",
+                         "Bytes":  142788156,
+                         "Size":  "136.17 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files (x86)"
+                     },
+                     {
+                         "Name":  "Child: Viwez",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\Viwez",
+                         "Bytes":  100218334,
+                         "Size":  "95.58 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: InputMethod",
+                         "Path":  "C:\\Windows\\InputMethod",
+                         "Bytes":  97857734,
+                         "Size":  "93.32 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: Speech_OneCore",
+                         "Path":  "C:\\Windows\\Speech_OneCore",
+                         "Bytes":  97299299,
+                         "Size":  "92.79 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: Installer",
+                         "Path":  "C:\\Windows\\Installer",
+                         "Bytes":  85491103,
+                         "Size":  "81.53 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Windows\\Installer",
+                         "Path":  "C:\\Windows\\Installer",
+                         "Bytes":  85491103,
+                         "Size":  "81.53 MB",
+                         "Type":  "Installer Cache",
+                         "Suggest":  "Do not delete manually."
+                     },
+                     {
+                         "Name":  "Child: ServiceProfiles",
+                         "Path":  "C:\\Windows\\ServiceProfiles",
+                         "Bytes":  76757023,
+                         "Size":  "73.20 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: Speech",
+                         "Path":  "C:\\Windows\\Speech",
+                         "Bytes":  74539877,
+                         "Size":  "71.09 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: SystemTemp",
+                         "Path":  "C:\\Windows\\SystemTemp",
+                         "Bytes":  73659498,
+                         "Size":  "70.25 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: Boot",
+                         "Path":  "C:\\Windows\\Boot",
+                         "Bytes":  70112316,
+                         "Size":  "66.86 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: Globalization",
+                         "Path":  "C:\\Windows\\Globalization",
+                         "Bytes":  67457306,
+                         "Size":  "64.33 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: MuMuVMMVbox",
+                         "Path":  "C:\\Program Files\\MuMuVMMVbox",
+                         "Bytes":  67400363,
+                         "Size":  "64.28 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files"
+                     },
+                     {
+                         "Name":  "Child: INF",
+                         "Path":  "C:\\Windows\\INF",
+                         "Bytes":  54409628,
+                         "Size":  "51.89 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: SoftwareDistribution",
+                         "Path":  "C:\\Windows\\SoftwareDistribution",
+                         "Bytes":  48460301,
+                         "Size":  "46.22 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: Common Files",
+                         "Path":  "C:\\Program Files (x86)\\Common Files",
+                         "Bytes":  45433027,
+                         "Size":  "43.33 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files (x86)"
+                     },
+                     {
+                         "Name":  "Child: QuarkUpdater",
+                         "Path":  "C:\\Program Files\\QuarkUpdater",
+                         "Bytes":  44344654,
+                         "Size":  "42.29 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files"
+                     },
+                     {
+                         "Name":  "Child: BitComet",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\BitComet",
+                         "Bytes":  41297855,
+                         "Size":  "39.38 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: Comms",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\Comms",
+                         "Bytes":  40086396,
+                         "Size":  "38.23 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: BitComet_x64",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\BitComet_x64",
+                         "Bytes":  39966785,
+                         "Size":  "38.12 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: uv",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\uv",
+                         "Bytes":  37124356,
+                         "Size":  "35.40 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: NVIDIA",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\NVIDIA",
+                         "Bytes":  35412360,
+                         "Size":  "33.77 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: IME",
+                         "Path":  "C:\\Windows\\IME",
+                         "Bytes":  28821958,
+                         "Size":  "27.49 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: SumatraPDF",
+                         "Path":  "C:\\Program Files\\SumatraPDF",
+                         "Bytes":  28729344,
+                         "Size":  "27.40 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Program Files"
+                     },
+                     {
+                         "Name":  "Child: Package Cache",
+                         "Path":  "C:\\Users\\Administrator\\AppData\\Local\\Package Cache",
+                         "Bytes":  26840216,
+                         "Size":  "25.60 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Users\\Administrator\\AppData\\Local"
+                     },
+                     {
+                         "Name":  "Child: boost_interprocess",
+                         "Path":  "C:\\ProgramData\\boost_interprocess",
+                         "Bytes":  20971912,
+                         "Size":  "20.00 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\ProgramData"
+                     },
+                     {
+                         "Name":  "Child: Media",
+                         "Path":  "C:\\Windows\\Media",
+                         "Bytes":  20063519,
+                         "Size":  "19.13 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: ShellExperiences",
+                         "Path":  "C:\\Windows\\ShellExperiences",
+                         "Bytes":  19074048,
+                         "Size":  "18.19 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: NVIDIA Corporation",
+                         "Path":  "C:\\ProgramData\\NVIDIA Corporation",
+                         "Bytes":  18271409,
+                         "Size":  "17.42 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\ProgramData"
+                     },
+                     {
+                         "Name":  "Child: appcompat",
+                         "Path":  "C:\\Windows\\appcompat",
+                         "Bytes":  17918355,
+                         "Size":  "17.09 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\Windows"
+                     },
+                     {
+                         "Name":  "Child: Avast Software",
+                         "Path":  "C:\\ProgramData\\Avast Software",
+                         "Bytes":  16964569,
+                         "Size":  "16.18 MB",
+                         "Type":  "First Level Child",
+                         "Suggest":  "Inside C:\\ProgramData"
+                     }
+                 ]
+}
